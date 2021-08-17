@@ -6,4 +6,4 @@ My interests include functional genomics, genome evolution, human genetics, mach
 
 These repos reflect different projects during my Ph.D..
 
-Contact me at slifong08@gmail.com
+For questions or to share interests, contact me at slifong08@gmail.com
